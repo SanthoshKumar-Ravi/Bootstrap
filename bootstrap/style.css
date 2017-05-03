@@ -1,0 +1,134 @@
+.my{
+	width:100px;
+	height:100px;
+	float:left;
+}
+body{
+	margin:0;
+	background-color:#a7b5cc;
+}
+.navbar{
+	background-color:#4e6487;
+	
+}
+.head{
+	height:200px;
+}
+.details{
+	float:right;
+}
+.navbar-brand{
+	margin-top:0px;
+}
+.well_1{
+	padding-bottom:40px;
+}
+.nav li a,.navbar-brand{
+	color:white;
+	font-family: 'Acme', sans-serif;
+}
+.tagname{
+	font-family: 'Acme', sans-serif;
+}
+.dropdown-menu li a{
+	color:black;
+}
+.project {
+	font-family: 'Rokkitt', serif;
+	font-size: 15px;
+}
+/*.project ul li{
+	font-family: 'Acme', sans-serif;
+	font-size: 20px;
+}*/
+.logo{
+	width:50px;
+	height: 20px;
+	margin:0;
+}
+.searchInput{
+	width:100px;
+}
+.font {
+	font-family: 'Wendy One', sans-serif;
+	color:#F1C40F;
+	
+}
+.font_1{
+	text-align:center;
+	color:#F1C40F;
+}
+
+.heading_1{
+	font-family: 'Lobster', cursive;
+	color:#F1C40F;
+}
+#objectives{
+	margin-top:90px;
+
+}
+.well{
+	background-color:white;
+	border: none !important;
+}
+.form_input{
+	float:left;
+}
+.navbar-brand {
+	padding: 13px 15px;
+}
+#myCarousel{
+	margin-top: 60px;
+}
+#myCarousel .item{
+	height:500px;
+	
+}
+
+.carousel-inner{
+  width:100%;
+  max-height: 500px !important;
+}
+#slide1{
+	background: url("../images/slide_1.jpg") no-repeat top center;
+	background-size:100% 500px;
+}
+#slide2{
+	background: url("../images/slide_2.jpg") no-repeat top center;
+	background-size:100% 500px;
+}
+#slide3{
+	background: url("../images/slide_3.jpg") no-repeat top center;
+	background-size:100% 500px;
+}
+.school_img{
+	width:100px;
+	height:100px;
+}
+.feature{
+	text-align:center;
+}
+.feature img{
+	margin:0 0 20px;
+}
+.skill{
+	text-align:center;
+}
+.skill_img{
+	width:50px;
+	height:50px;
+	margin:0 0 20px;
+}
+#aboutme{
+	
+}
+.company{
+	height:150px;
+	width:150px;
+}
+.pageheader{
+	padding-left:100px;
+}
+#footer{
+	background-color:red;
+}
